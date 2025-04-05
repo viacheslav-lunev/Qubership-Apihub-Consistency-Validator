@@ -1,0 +1,14 @@
+{
+    "postman_collections": [
+        "1_1_Smoke_Portal.postman_collection.json",
+        "2_1_Negative_Portal.postman_collection.json",
+        "3_1_Stories_Bugs.postman_collection.json",
+        "4_Access_control.postman_collection.json"
+    ],
+    "source_code_http_handlers": [
+        "qubership-apihub-backend/qubership-apihub-service/Service.go"
+    ],
+    "apihub_url": "https://qubership.apihub.com",
+    "package_id": "a.b.c",
+    "version": "1.0.0"
+}
